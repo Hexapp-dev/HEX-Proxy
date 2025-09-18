@@ -32,15 +32,6 @@ Run the following command to install and configure the proxy:
 bash <(curl -s https://cdn.jsdelivr.net/gh/Hexapp-dev/HEX-Proxy/install.sh)
 ```
 
-<details>
-<summary>📋 Copy Command</summary>
-
-```bash
-bash <(curl -s https://cdn.jsdelivr.net/gh/Hexapp-dev/HEX-Proxy/install.sh)
-```
-
-</details>
-
 ## ⚙️ Configuration
 
 After installation, you'll need to set up the proxy environment variables in your current terminal session:
@@ -49,16 +40,6 @@ After installation, you'll need to set up the proxy environment variables in you
 export http_proxy="socks5h://127.0.0.1:1080"
 export https_proxy="socks5h://127.0.0.1:1080"
 ```
-
-<details>
-<summary>📋 Copy Commands</summary>
-
-```bash
-export http_proxy="socks5h://127.0.0.1:1080"
-export https_proxy="socks5h://127.0.0.1:1080"
-```
-
-</details>
 
 ## 🔄 Session Management
 
@@ -148,15 +129,6 @@ If this project helped you, please give us a star! It motivates us to continue i
 bash <(curl -s https://cdn.jsdelivr.net/gh/Hexapp-dev/HEX-Proxy/install.sh)
 ```
 
-<details>
-<summary>📋 کپی دستور</summary>
-
-```bash
-bash <(curl -s https://cdn.jsdelivr.net/gh/Hexapp-dev/HEX-Proxy/install.sh)
-```
-
-</details>
-
 ## ⚙️ پیکربندی
 
 پس از نصب، باید متغیرهای محیطی پروکسی را در جلسه ترمینال فعلی تنظیم کنید:
@@ -165,16 +137,6 @@ bash <(curl -s https://cdn.jsdelivr.net/gh/Hexapp-dev/HEX-Proxy/install.sh)
 export http_proxy="socks5h://127.0.0.1:1080"
 export https_proxy="socks5h://127.0.0.1:1080"
 ```
-
-<details>
-<summary>📋 کپی دستورات</summary>
-
-```bash
-export http_proxy="socks5h://127.0.0.1:1080"
-export https_proxy="socks5h://127.0.0.1:1080"
-```
-
-</details>
 
 ## 🔄 مدیریت جلسه
 
